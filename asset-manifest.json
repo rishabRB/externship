@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rishabRB/externship/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/rishabRB/externship/static/js/main.0445d9ae.chunk.js",
+    "main.js.map": "/rishabRB/externship/static/js/main.0445d9ae.chunk.js.map",
+    "runtime-main.js": "/rishabRB/externship/static/js/runtime-main.a11e74a7.js",
+    "runtime-main.js.map": "/rishabRB/externship/static/js/runtime-main.a11e74a7.js.map",
+    "static/js/2.84cc7b3d.chunk.js": "/rishabRB/externship/static/js/2.84cc7b3d.chunk.js",
+    "static/js/2.84cc7b3d.chunk.js.map": "/rishabRB/externship/static/js/2.84cc7b3d.chunk.js.map",
+    "static/js/3.0b73af70.chunk.js": "/rishabRB/externship/static/js/3.0b73af70.chunk.js",
+    "static/js/3.0b73af70.chunk.js.map": "/rishabRB/externship/static/js/3.0b73af70.chunk.js.map",
+    "index.html": "/rishabRB/externship/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/rishabRB/externship/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.84cc7b3d.chunk.js.LICENSE.txt": "/rishabRB/externship/static/js/2.84cc7b3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a11e74a7.js",
+    "static/js/2.84cc7b3d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0445d9ae.chunk.js"
+  ]
+}
